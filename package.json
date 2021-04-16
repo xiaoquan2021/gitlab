@@ -1,7 +1,7 @@
 {
   "name": "@semantic-release/gitlab",
   "description": "semantic-release plugin to publish a GitLab release",
-  "version": "0.0.0-development",
+  "version": "0.0.1-xiaoquan",
   "author": "Pierre Vanduynslager (https://twitter.com/@pvdlg_)",
   "ava": {
     "files": [
